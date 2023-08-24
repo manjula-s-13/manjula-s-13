@@ -1,6 +1,9 @@
-### Hi there 👋
-### 🌱 I’m currently learning Spring Cloud MicroServices
+### Hi👋, I'm Manjula S
 
+- 🔭 I’m currently working on Ecommerce Web application project 
+- 🌱 I’m currently learning Spring Cloud Microservices and Reactjs
+- 📫 How to reach me: manjulas10123@gmail.com
+  
 <!--
 **manjula-s-13/manjula-s-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
