@@ -1,6 +1,6 @@
 ### Hi👋, I'm Manjula S
 
-### Full Stack developer based out in Bengaluru
+### Back-End Developer based out in Bengaluru
          
  
 - 🌱 I’m currently learning Spring Cloud Microservices and Reactjs
